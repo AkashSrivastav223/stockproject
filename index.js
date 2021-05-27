@@ -1,3 +1,4 @@
+//for stock market app index js file
 const express = require('express');
 const exphbs  = require('express-handlebars');
 
